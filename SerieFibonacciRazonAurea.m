@@ -1,4 +1,4 @@
-%% Problema de la serierie de Fibonnacci y la razon aurea
+%% Problema de la serie de Fibonnacci y la razon aurea
 f=zeros(1,50);
 a=zeros(1,50);
 f(1)=1;
